@@ -345,4 +345,4 @@
   0%, 100% { transform: translate(-50%, -50%) scale(1); }
   50% { transform: translate(-50%, -50%) scale(1.1); }
 }
-</style>
+</style> 
