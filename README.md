@@ -26,6 +26,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daemon001&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+
+---
+
+</p>
+<p align="center">
+<!-- Earned Badges -->
+<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/Oracle_Associate.png" width="100px">
+<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/Oracle_Professional.png" width="100px">
+<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI_DS.png" width="100px">
+<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI-Dev.png" width="100px">
+
+
+</p>
+
+
 ---
 
 ### 🔗 Connect with Me  
