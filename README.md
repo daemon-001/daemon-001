@@ -21,10 +21,10 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 🛠️ Others         : Linux | Bash | Automation | Electronics
 
 > achievements --list
-Oracle Certified Associate and Professional  
-SAP Associate Consultant  
-OCI Data Science Certified
-OCI Developer Certified  
+🏆 Oracle Certified Associate and Professional  
+🏆 SAP Associate Consultant
+🏆 OCI Data Science Certified
+🏆 OCI Developer Certified  
 ```
 
 
