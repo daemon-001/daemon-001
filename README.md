@@ -21,6 +21,22 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 🛠️ Others         : Linux | Bash | Automation | Electronics
 ```
 
+<pre style="font-size:16px; line-height:1.6em; padding:18px; background:#0d1117; color:#f0f0f0; border-radius:12px; overflow-x:auto;">
+<code>
+> whoami
+Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
+
+> skills --list
+⚙️ Languages      : Java | Kotlin | Python | Dart | JavaScript
+📱 Android Dev    : Jetpack Compose | Flutter | ADB | Debugging
+🌐 Web Dev        : Flask | Node.js | React | REST APIs
+🧠 AI/ML          : TensorFlow | scikit-learn | Keras | PyTorch
+🗄️ Databases      : SQLite | Firebase | MySQL | Supabase
+☁️ Tools & Cloud  : Git | GitHub | Google Drive API | Docker
+🛠️ Others         : Linux | Bash | Automation | Electronics
+</code>
+</pre>
+
 </p>
 <p align="center">
 <!-- Earned Badges -->
