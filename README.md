@@ -19,12 +19,6 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 🗄️ Databases      : SQLite | Firebase | MySQL | Supabase
 ☁️ Tools & Cloud  : Git | GitHub | Google Drive API | Docker
 🛠️ Others         : Linux | Bash | Automation | Electronics
-
-> achievements --list
-🏆 Oracle Certified Associate and Professional  
-🏆 SAP Associate Consultant
-🏆 OCI Data Science Certified
-🏆 OCI Developer Certified  
 ```
 
 
