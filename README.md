@@ -12,7 +12,7 @@
 Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 
 > skills --list
-⚙️ Languages      : Java | Kotlin | Python | Dart | JavaScript
+⚙️ Languages      : Java | Kotlin | Python | C++ | JavaScript
 📱 Android Dev    : Jetpack Compose | Flutter | ADB | Debugging
 🌐 Web Dev        : Flask | Node.js | React | REST APIs
 🧠 AI/ML          : TensorFlow | scikit-learn | Keras | PyTorch
