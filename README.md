@@ -17,8 +17,9 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 🌐 Web Dev        : Flask | Node.js | React | REST APIs
 🧠 AI/ML          : TensorFlow | scikit-learn | Keras | PyTorch
 🗄️ Databases      : SQLite | Firebase | MySQL | Supabase
-☁️ Tools & Cloud  : Git | GitHub | Google Drive API | Docker
-🛠️ Others         : Linux | Bash | Automation | Electronics
+☁️ Tools & Cloud  : Git | Google API | Docker | Kubernetes
+🤖 LLMs APIs      : OpenAI | Gemini | OpenRouter | Llama
+🛠️ Others         : Bash | Automation | Microcontrollers
 ```
 
 
