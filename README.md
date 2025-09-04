@@ -29,6 +29,7 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/Oracle_Associate.png" width="100px">
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/Oracle_Professional.png" width="100px">
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_AC.png" width="100px">
+<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_DataAnalyst.png" width="100px">
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI_DS.png" width="100px">
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI-Dev.png" width="100px">
 </p>
