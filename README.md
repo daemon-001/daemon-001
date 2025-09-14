@@ -36,7 +36,7 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 </p>
 <p align="center">
 <!-- Earned Badges -->
-<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM_SE_Essentials.png" width="100px">
+<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM_SE_Essentials.png" width="600px">
 </p>
 
 <p align="center">
