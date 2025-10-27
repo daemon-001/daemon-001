@@ -3,10 +3,6 @@
   </h1> 
 </p>
 
-
-
-
-
 ```bash
 > whoami
 Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
@@ -26,16 +22,16 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 </p>
 <p align="center">
 <!-- Earned Badges -->
-[<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM_SE_Essentials.png" width="100px">](https://www.credly.com/earner/earned/badge/ff15c520-a338-4df8-9f34-439e2239e671)
-[<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM Python for Data Science and AI.png" width="100px">](https://www.credly.com/badges/76b5b68c-576b-4882-ad84-eb798d29d70a)
-[<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_AC.png" width="100px">](https://badger.learning.sap.com/verify/xihed-dacum-nacik-hacad-rusec)
-[<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_DataAnalyst.png" width="100px">](https://www.credly.com/badges/30b28ea0-dbb4-460f-bb2e-964d8a5da116)
-[<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI_DS.png" width="100px">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F14D849B751AA6E67FFB2163211093FEAEEDC6B6C598EBB72AA1FA1D611D6B82)
-[<img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI-Dev.png" width="100px">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F14D849B751AA6E67FFB2163211093FE4A62F8AD26FB39E9666F49C54A0EA4F2)
+<a href="https://www.credly.com/badges/ff15c520-a338-4df8-9f34-439e2239e671/public_url"><img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM_SE_Essentials.png" width="100px"></a>
+<a href="https://www.credly.com/badges/76b5b68c-576b-4882-ad84-eb798d29d70a/public_url"><img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
+<a href="https://badger.learning.sap.com/verify/xihed-dacum-nacik-hacad-rusec"><img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_AC.png" width="100px"></a>
+<a href="https://www.credly.com/badges/30b28ea0-dbb4-460f-bb2e-964d8a5da116/public_url"><img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/SAP_DataAnalyst.png" width="100px"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F14D849B751AA6E67FFB2163211093FEAEEDC6B6C598EBB72AA1FA1D611D6B82"><img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI_DS.png" width="100px"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F14D849B751AA6E67FFB2163211093FE4A62F8AD26FB39E9666F49C54A0EA4F2"><img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI-Dev.png" width="100px"></a>
 </p>
 <p align="center">
   <!-- HacktoberFest Overview -->
-  [<img src="https://holopin.me/daemon001" height="220px"/>](https://www.holopin.io/@daemon001#)
+<a href="https://www.holopin.io/@daemon001#"><img src="https://holopin.me/daemon001" height="220px"/></a>
 </p>
 
 
