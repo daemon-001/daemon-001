@@ -44,7 +44,10 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daemon-001&theme=radical" height="200px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daemon-001&theme=radical&utcOffset=5.5" height="200px"/>
 </p>
-
+<p align="center">
+  <!-- Profile Overview -->
+  <img src="https://holopin.me/daemon001" height="200px"/>
+</p>
 
 
 <!-- Social Section -->
