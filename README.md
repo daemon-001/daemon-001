@@ -33,6 +33,10 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI_DS.png" width="100px">
 <img src="https://github.com/daemon-001/daemon-001/blob/main/Badges/OCI-Dev.png" width="100px">
 </p>
+<p align="center">
+  <!-- Profile Overview -->
+  <img src="https://holopin.me/daemon001" height="300px"/>
+</p>
 
 
 <p align="center">
@@ -43,10 +47,6 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
   <!-- Language & Repo Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daemon-001&theme=radical" height="200px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daemon-001&theme=radical&utcOffset=5.5" height="200px"/>
-</p>
-<p align="center">
-  <!-- Profile Overview -->
-  <img src="https://holopin.me/daemon001" height="200px"/>
 </p>
 
 
