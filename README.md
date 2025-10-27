@@ -35,7 +35,7 @@ Nitesh Kumar ~ Android Dev | Fullstack Dev | AI/ML Engineer
 </p>
 <p align="center">
   <!-- Profile Overview -->
-  <img src="https://holopin.me/daemon001" height="225px"/>
+  <img src="https://holopin.me/daemon001" height="220px"/>
 </p>
 
 
